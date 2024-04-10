@@ -1,0 +1,13 @@
+.card {
+    width: 100px;
+    height: 150px;
+    background-color: #ddd;
+    border: 1px solid #aaa;
+    margin: 5px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.game-container {
+    text-align: center;
+}
